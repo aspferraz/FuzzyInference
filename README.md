@@ -28,3 +28,10 @@ So (Pressure is Average)
 So (pressure is high)
 <br>Rule 9: If (Temperature is High) and (Volume is Large)
 So (pressure is high)
+
+<b>Parameters:</b><br>
+• 500 points of discretization for all universes of speech.<br>
+• Composition operator of the Max-Min type.<br>
+• Implication operator Mamdani.<br>
+• Maximum aggregation operator.<br>
+• Area Center defocusing method.
